@@ -21,3 +21,4 @@ for (let i = 0; i < nums.length; i++) {
   }
 }
 console.log(j);
+// printing total of unique elements
